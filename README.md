@@ -19,3 +19,6 @@ This is Yili's Notebook.
 
 ### Greedy
 - 1124. Longest Well Performing Interval
+
+### BFS/Dijkstra
+- 1091. Shortest Path in Binary Matrix
