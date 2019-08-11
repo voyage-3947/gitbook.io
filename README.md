@@ -22,3 +22,6 @@ This is Yili's Notebook.
 
 ### BFS/Dijkstra
 - lc1091. Shortest Path in Binary Matrix
+
+### Dynamic Programming
+- lc1052. Grumpy Bookstore Owner
